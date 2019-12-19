@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "name": "Kazi Arafat",
+        "city": "Kolkata"
+    },
+    {
+        "id": 2,
+        "name": "Suhana Razi",
+        "city": "Bangalore"
+    },
+    {
+        "id": 3,
+        "name": "Samar Kaiyyum",
+        "city": "Delhi"
+    },
+    {
+        "id": 4,
+        "name": "Rashmi Bhattacharya",
+        "city": "Hyderabad"
+    },
+    {
+        "id": 5,
+        "name": "Snageeta Ghosh",
+        "city": "Bangalore"
+    }
+]
