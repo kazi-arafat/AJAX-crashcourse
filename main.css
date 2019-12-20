@@ -51,6 +51,23 @@ footer small{
     margin: 10px;
     border: .01rem #333  solid;
     padding: 10px;
+    
+    
+}
+
+.box ul{
+    list-style-type: none;
+    font-weight: bold;
+    
+    
+}
+
+.users{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 5px;
+    background: #999999
+
 }
 
 .prog{
@@ -59,4 +76,9 @@ footer small{
     width: 250px;
     height: 25px;
     border-radius: 3px;
+}
+
+img:hover {
+    opacity: 1;
+    transition: opacity 2s;
 }

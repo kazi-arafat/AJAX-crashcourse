@@ -46,7 +46,6 @@ function loadText() {
             container[1].insertAdjacentElement('beforeend',msg);
         }
     
-    // onerror to handle some error
     xhr.onerror = function(){
         console.log("Request Error");
     }
